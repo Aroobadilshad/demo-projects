@@ -1,4 +1,4 @@
 # demo-projects
 this is my first git repository.
 <br>
-Autor - arooba Dilshad
+Author - Arooba Dilshad
